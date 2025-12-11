@@ -29,3 +29,8 @@ Python Numoy
 Pyhon Scipy
 Python Seaborn
 
+<img width="921" height="484" alt="image" src="https://github.com/user-attachments/assets/d35deef0-0321-436f-acc4-f3888bd78d4e" />
+
+
+
+
